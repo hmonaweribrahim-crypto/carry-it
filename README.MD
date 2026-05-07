@@ -1,8 +1,8 @@
 ````markdown id="bph2i5"
 # 🚚 Carry It - Smart Delivery Platform
 
-![Main Dashboard] (screenshots/h-page.png)
-
+![Intro](screenshots/h-page.png)
+--- 
 ## 🎓 Graduation Project
 
 Carry It is a Graduation Project developed for the College of Computer at Qassim University, Department of Information Technology. :contentReference[oaicite:0]{index=0}
