@@ -1,7 +1,7 @@
 ````markdown id="bph2i5"
 # 🚚 Carry It - Smart Delivery Platform
 
-(screenshots/h-page.png)
+![Main Dashboard] (screenshots/h-page.png)
 
 ## 🎓 Graduation Project
 
